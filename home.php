@@ -12,10 +12,173 @@
 <div class="container">
   <h1 class="titulo pmero">Mark´S Books </h1>
   <p class="text-intro">
-   Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+   Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
  </p>
 </div>
 <!-- Top content -->
+<div class="sliderBook">
+  <div class="oneBook">
+    <a href="#">
+      <div class="head">
+        <div class="info">
+          <p class="text">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud.
+            <span>
+              Mark Plotkin
+            </span>
+            Lorem ipsum dolor sit amet
+          </p>
+        </div>
+      </div>
+      <div class="boxi">
+        <h3>The Killers Within</h3>
+        <p>A battle is taking place on the frontiers of medicine between rapidly evolving bacteria and the ...</p>
+      </div>
+      <span class="mor1"><i class="fas fa-eye"></i> SEE MORE</span>
+    </a>
+  </div>
+  <div class="oneBook">
+    <a href="#">
+      <div class="head">
+        <div class="info">
+          <p class="text">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud.
+            <span>
+              Mark Plotkin
+            </span>
+            Lorem ipsum dolor sit amet
+          </p>
+        </div>
+      </div>
+      <div class="boxi">
+        <h3>The Killers Within</h3>
+        <p>A battle is taking place on the frontiers of medicine between rapidly evolving bacteria and the ...</p>
+      </div>
+      <span class="mor1"><i class="fas fa-eye"></i> SEE MORE</span>
+    </a>
+  </div>
+  <div class="oneBook">
+    <a href="#">
+      <div class="head">
+        <div class="info">
+          <p class="text">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud.
+            <span>
+              Mark Plotkin
+            </span>
+            Lorem ipsum dolor sit amet
+          </p>
+        </div>
+      </div>
+      <div class="boxi">
+        <h3>The Killers Within</h3>
+        <p>A battle is taking place on the frontiers of medicine between rapidly evolving bacteria and the ...</p>
+      </div>
+      <span class="mor1"><i class="fas fa-eye"></i> SEE MORE</span>
+    </a>
+  </div>
+  <div class="oneBook">
+    <a href="#">
+      <div class="head">
+        <div class="info">
+          <p class="text">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud.
+            <span>
+              Mark Plotkin
+            </span>
+            Lorem ipsum dolor sit amet
+          </p>
+        </div>
+      </div>
+      <div class="boxi">
+        <h3>The Killers Within</h3>
+        <p>A battle is taking place on the frontiers of medicine between rapidly evolving bacteria and the ...</p>
+      </div>
+      <span class="mor1"><i class="fas fa-eye"></i> SEE MORE</span>
+    </a>
+  </div>
+  <div class="oneBook">
+    <a href="#">
+      <div class="head">
+        <div class="info">
+          <p class="text">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud.
+            <span>
+              Mark Plotkin
+            </span>
+            Lorem ipsum dolor sit amet
+          </p>
+        </div>
+      </div>
+      <div class="boxi">
+        <h3>The Killers Within</h3>
+        <p>A battle is taking place on the frontiers of medicine between rapidly evolving bacteria and the ...</p>
+      </div>
+      <span class="mor1"><i class="fas fa-eye"></i> SEE MORE</span>
+    </a>
+  </div>
+  <div class="oneBook">
+    <a href="#">
+      <div class="head">
+        <div class="info">
+          <p class="text">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud.
+            <span>
+              Mark Plotkin
+            </span>
+            Lorem ipsum dolor sit amet
+          </p>
+        </div>
+      </div>
+      <div class="boxi">
+        <h3>The Killers Within</h3>
+        <p>A battle is taking place on the frontiers of medicine between rapidly evolving bacteria and the ...</p>
+      </div>
+      <span class="mor1"><i class="fas fa-eye"></i> SEE MORE</span>
+    </a>
+  </div>
+  <div class="oneBook">
+    <a href="#">
+      <div class="head">
+        <div class="info">
+          <p class="text">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud.
+            <span>
+              Mark Plotkin
+            </span>
+            Lorem ipsum dolor sit amet
+          </p>
+        </div>
+      </div>
+      <div class="boxi">
+        <h3>The Killers Within</h3>
+        <p>A battle is taking place on the frontiers of medicine between rapidly evolving bacteria and the ...</p>
+      </div>
+      <span class="mor1"><i class="fas fa-eye"></i> SEE MORE</span>
+    </a>
+  </div>
+  <div class="oneBook">
+    <a href="#">
+      <div class="head">
+        <div class="info">
+          <p class="text">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud.
+            <span>
+              Mark Plotkin
+            </span>
+            Lorem ipsum dolor sit amet
+          </p>
+        </div>
+      </div>
+      <div class="boxi">
+        <h3>The Killers Within</h3>
+        <p>A battle is taking place on the frontiers of medicine between rapidly evolving bacteria and the ...</p>
+      </div>
+      <span class="mor1"><i class="fas fa-eye"></i> SEE MORE</span>
+    </a>
+  </div>
+</div>
+
 <div class="slidebook">
     <div class="container-fluid back2">
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -37,7 +200,7 @@
             <div class="head">
               <div class="info">
                 <p class="text">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud. 
+              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud.
               <span>
                 Mark Plotkin
               </span>
@@ -58,7 +221,7 @@
             <div class="head">
               <div class="info">
                 <p class="text">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud. 
+              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud.
               <span>
                 Mark Plotkin
               </span>
@@ -79,7 +242,7 @@
             <div class="head">
               <div class="info">
                 <p class="text">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud. 
+              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud.
               <span>
                 Mark Plotkin
               </span>
@@ -104,7 +267,7 @@
             <div class="head">
               <div class="info">
                 <p class="text">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud. 
+              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud.
               <span>
                 Mark Plotkin
               </span>
@@ -124,7 +287,7 @@
             <div class="head">
               <div class="info">
                 <p class="text">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud. 
+              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud.
               <span>
                 Mark Plotkin
               </span>
@@ -144,7 +307,7 @@
             <div class="head">
               <div class="info">
                 <p class="text">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud. 
+              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud.
               <span>
                 Mark Plotkin
               </span>
@@ -161,7 +324,7 @@
           </div>
                 </div>
               </div>
-            
+
             </div>
           </div>
           <div class="col-1">
@@ -218,11 +381,3 @@
 
 <br>
 <p>“Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse mo.”</p>
-
-
-
-
-
-
-
-

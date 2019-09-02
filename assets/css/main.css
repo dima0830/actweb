@@ -34,13 +34,13 @@ font-weight: 800;
 font-size: 24px;
 text-align: center;
 margin: 40px auto 10px;
-} 
+}
 .pmero{
 color: #2c2a29;
 }
 .seg2{
 color: #80ad46;
-} 
+}
 
 /* menu*/
 .logo{
@@ -136,7 +136,8 @@ nav ul li a {
 }
 .head{
   background-image: url(../img/book1.jpg);
-  background-size: 100%;
+  background-size: cover;
+  background-position: center;
   text-align: center;
   width: 100%;
   max-width: 361px;
@@ -218,12 +219,12 @@ nav ul li a {
   height: 400px;
 }
 #cont{
-  background: url("../img/back.jpg") fixed; 
+  background: url("../img/back.jpg") fixed;
   max-height: 100%;
-  height: 400px; 
+  height: 400px;
   position: relative;
   margin: 0 auto;
-  background-size: cover; 
+  background-size: cover;
 }
 .tex-home{
   text-align: center;
@@ -284,7 +285,7 @@ input, textarea {
   padding: 9px 10px;
   color:#a0a0a3;
   font-weight: 700;
-  font-size: 12px; 
+  font-size: 12px;
 }
 
 /* =========================== responsive menu  ===========================*/
@@ -330,7 +331,7 @@ nav ul li {
     width:100%;
     background: rgba(44, 42, 41, 0.7);
   }
- 
+
   .menu_bar .bt-menu {
     display:block;
     padding:10px 15px;
@@ -342,7 +343,7 @@ nav ul li {
     -moz-box-sizing:border-box;
     box-sizing:border-box;
   }
- 
+
   .menu_bar i {
     float:right;
     font-size:30px;
@@ -455,26 +456,57 @@ margin: 10px 0;
 }
 @media (min-width: 992px) and (max-width: 1199px){
   .logo{
-  font-size: 22px;
-  color: #fff;
-  display: inline-block;
-  margin: 5px 0px 0px 20px;
-}
-  nav ul li a {
-  font-size: 10px;
-  font-weight: 700;
-  color:#fff;
-  display:block;
-  text-decoration:none;
-  border-right: 1px solid #fff;
-  padding:0 6px;
-}
-.titufoot{
-  display: block;
-  text-align: center;
-  font-size: 12px;
-  font-weight: 700;
-  padding: 10px 0;
-}
+    font-size: 22px;
+    color: #fff;
+    display: inline-block;
+    margin: 5px 0px 0px 20px;
+  }
+    nav ul li a {
+    font-size: 10px;
+    font-weight: 700;
+    color:#fff;
+    display:block;
+    text-decoration:none;
+    border-right: 1px solid #fff;
+    padding:0 6px;
+  }
+  .titufoot{
+    display: block;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 10px 0;
+  }
 }
 
+/* Carrusel de libros */
+.sliderBook {
+  padding: 0 100px;
+}
+.sliderBook .oneBook {
+  padding: 15px;
+}
+.sliderBook .slick-arrow {
+  width: 37px;
+  height: 48px;
+}
+.sliderBook .slick-prev {
+  left: 50px;
+  background-image: url(../img/icon-back.png);
+}
+.sliderBook .slick-next {
+  right: 50px;
+  background-image: url(../img/icon-right.png);
+}
+.sliderBook .slick-dots {
+  width: auto;
+  display: block;
+  position: relative;
+}
+.sliderBook .slick-dots li button {
+  padding: 3px 10px;
+  height: 10px;
+  margin: 0 3px;
+  background-color: rgba(255,0,0,0.3)
+}
+/* fin Carrusel de libros */
