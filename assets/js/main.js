@@ -1,4 +1,10 @@
 $(document).ready(function(){
+  $(".tr_cambioContenido").click(function(){
+    let mostrar = $(this).data('contenido');
+    $(".contenidos").hide();
+    $("."+mostrar).show();
+  })
+
   $('.sliderBook').slick({
     slidesToShow: 3,
     slidesToScroll: 1,

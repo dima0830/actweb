@@ -15,6 +15,24 @@
    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
  </p>
 </div>
+<!-- botones tab -->
+<div class="container">
+  <div class="text-center">
+    <button class="tr_cambioContenido" data-contenido="contenidoUno">Boton uno</button>
+    <button class="tr_cambioContenido" data-contenido="contenidoDos">Boton dos</button>
+    <button class="tr_cambioContenido" data-contenido="contenidoTres">Boton tres</button>
+  </div>
+  <div class="contenidos contenidoUno">
+    Contenido uno
+  </div>
+  <div class="contenidos contenidoDos" style="display: none;">
+    Contenido Dos
+  </div>
+  <div class="contenidos contenidoTres" style="display: none;">
+    Contenido Tres
+  </div>
+</div>
+<!-- fin botones tab -->
 <!-- Top content -->
 <div class="sliderBook">
   <div class="oneBook">
